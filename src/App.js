@@ -25,8 +25,8 @@ const App=()=> {
         progress={progress}
         height={3}
       />
-        
-        <Switch>
+        <News setprogress={setprogress} pagesize={8} country="in" category="business"/>
+        {/* <Switch>
           <Route key="Business" path="/Business">
           <News setprogress={setprogress} pagesize={8} country="in" category="business"/>
           </Route>
@@ -48,7 +48,7 @@ const App=()=> {
           <Route key="general" path="/">
           <News setprogress={setprogress} pagesize={8} country="in" category="general"/>
           </Route>
-        </Switch>
+        </Switch> */}
       </div>
        </Router>
     );
