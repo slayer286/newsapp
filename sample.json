@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 32,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Boyette, Jason Hanna",
+            "title": "Thousands without power after 6.4 magnitude earthquake strikes Northern California - CNN",
+            "description": "A 6.4 magnitude earthquake shook Northern California's Eureka area early Tuesday, according to the US Geological Survey, and thousands are without power in its wake.",
+            "url": "https://www.cnn.com/2022/12/20/us/humboldt-county-california-earthquake/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221220115443-humboldt-earthquake-map.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-20T12:28:00Z",
+            "content": "A 6.4 magnitude earthquake shook Northern Californias Eureka area early Tuesday, according to the US Geological Survey, and thousands are without power in its wake.\r\nThe quake, recorded at 2:34 a.m. … [+976 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "German court convicts 97-year-old ex-secretary at Nazi camp - The Associated Press",
+            "description": "BERLIN (AP) — A German court on Tuesday convicted a 97-year-old woman of being an accessory to murder in over 10,000 cases for her role as a secretary to the SS commander of the Nazis' Stutthof concentration camp during World War II.",
+            "url": "https://apnews.com/dceae7a28dfdee9a869bd8fe8a75c91a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/1af2eb67c7b14533b31976522a3c9a1e/3000.webp",
+            "publishedAt": "2022-12-20T10:46:28Z",
+            "content": "BERLIN (AP) A German court on Tuesday convicted a 97-year-old woman of being an accessory to murder in over 10,000 cases for her role as a secretary to the SS commander of the Nazis Stutthof concentr… [+2976 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Bank of Japan shocks global markets with bond yield shift - CNBC",
+            "description": "Global markets were jolted overnight after Japan unexpectedly raised the cap on 10-year Japanese government bond yields, sparking a sell-off in bonds and stocks.",
+            "url": "https://www.cnbc.com/2022/12/20/bank-of-japan-shocks-global-markets-with-bond-yield-shift.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107122648-1663837928677-gettyimages-1243415026-AFP_32JV66N.jpeg?v=1671528204&w=1920&h=1080",
+            "publishedAt": "2022-12-20T09:23:24Z",
+            "content": "The Bank of Japan on Tuesday shocked global markets by widening the target range for its 10-year government bond yield.\r\nGlobal markets were jolted overnight after the Bank of Japan unexpectedly wide… [+4671 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "COVID border restrictions on migrants to stay after U.S. Supreme Court order - Reuters.com",
+            "description": "The U.S. Supreme Court on Monday said COVID-era restrictions at the U.S.-Mexico border that have prevented hundreds of thousands of migrants from seeking asylum should be kept in place for now, siding with Republicans who brought a legal challenge.",
+            "url": "https://www.reuters.com/world/us/us-preps-more-migrant-crossings-covid-era-restrictions-set-end-2022-12-19/",
+            "urlToImage": "https://www.reuters.com/resizer/133_rBzKc9Sd2IGn_qWbVBJNPZA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OKHXAW7ZQFO3HDHKCTRTGXGHFA.jpg",
+            "publishedAt": "2022-12-20T09:08:00Z",
+            "content": "WASHINGTON/CIUDAD JUAREZ, Mexico, Dec 19 (Reuters) - The U.S. Supreme Court on Monday said COVID-era restrictions at the U.S.-Mexico border that have prevented hundreds of thousands of migrants from … [+5257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Karen Gilchrist, Natasha Turak",
+            "title": "Ukraine war live updates: Russian drone attack takes out power supplies in Kyiv; Ruble tumbles - CNBC",
+            "description": "Russian drone strikes damaged infrastructure in Kyiv, Ukraine, while European Union countries agreed to a compromise for a gas price cap.",
+            "url": "https://www.cnbc.com/2022/12/19/ukraine-war-live-updates-russian-drone-attack-takes-out-power-supplies-in-kyiv-russian-rouble-tumbles.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107168140-1671443242727-gettyimages-1245722296-AA_19122022_996656.jpeg?v=1671443810&w=1920&h=1080",
+            "publishedAt": "2022-12-20T08:51:00Z",
+            "content": "European Union energy ministers agreed to a \"dynamic\" cap on natural gas prices Monday after two months of intense negotiations.\r\nIntroducing a limit on gas prices has been controversial for European… [+1080 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi",
+            "title": "Polar air and a powerful winter storm put millions under winter alerts this holiday week - CNN",
+            "description": "For millions of Americans across a large swath of the country, the holiday week is beginning with unrelenting below-freezing temperatures made even more miserable by heavy snow expected Tuesday and Wednesday in several central and northwestern states.",
+            "url": "https://www.cnn.com/2022/12/20/weather/christmas-artic-winter-storm-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221220015845-01-sioux-falls-ice-121322.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-20T08:33:00Z",
+            "content": "For millions of Americans across a large swath of the country, the holiday week is beginning with unrelenting below-freezing temperatures made even more miserable by heavy snow expected Tuesday and W… [+4990 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "China races to bolster health system as COVID surge sparks global concern - Reuters.com",
+            "description": "Cities across China scrambled to install hospital beds and build fever screening clinics on Tuesday as authorities reported five more deaths and <a href=\"/world/china/world-fears-new-china-covid-wave-ponders-how-help-xi-2022-12-20/\">international concern</a> …",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/china-races-install-hospital-beds-covid-surge-sparks-concern-abroad-2022-12-20/",
+            "urlToImage": "https://www.reuters.com/resizer/TJZQB_F8nW79W9u2a0SxuZt_o3E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYOCSIKBIJJV7K5WN3TFKVNFF4.jpg",
+            "publishedAt": "2022-12-20T07:07:00Z",
+            "content": "BEIJING/SINGAPORE, Dec 20 (Reuters) - Cities across China scrambled to install hospital beds and build fever screening clinics on Tuesday as authorities reported five more deaths and international co… [+4873 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Bill Belichick is figurehead in some of the NFL's most famous moments from Raiders debacle to Tom Brady's rise - Fox News",
+            "description": "The Las Vegas Raiders' miraculous win over the New England Patriots was just one of many moments Bill Belichick was involved in one way or the other.",
+            "url": "https://www.foxnews.com/sports/bill-belichick-figurehead-some-nfls-most-famous-moments-raiders-debacle-tom-bradys-rise",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Bill-Belichick4.jpg",
+            "publishedAt": "2022-12-20T07:00:20Z",
+            "content": "Bill Belichick was left with only a few words to describe the New England Patriots' loss to the Las Vegas Raiders on Sunday as Chandler Jones intercepted a terrible lateral toss and ran it back for a… [+12293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Vlad Savov",
+            "title": "Musk Narrows Voting on Twitter Policy to Blue Members After Poll - Yahoo Finance",
+            "description": "(Bloomberg) -- Twitter Inc. will restrict voting on major policy decisions to paying Twitter Blue subscribers, company owner Elon Musk said in one of his...",
+            "url": "https://finance.yahoo.com/news/musk-says-twitter-restrict-voting-005213118.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EMt55qM3gSCs9Z7tz3dcWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/7732b2344c5f0584ba2d6481a94c339a",
+            "publishedAt": "2022-12-20T06:58:00Z",
+            "content": "(Bloomberg) -- Twitter Inc. will restrict voting on major policy decisions to paying Twitter Blue subscribers, company owner Elon Musk said in one of his first tweets following a poll calling for him… [+2038 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Harvey Weinstein found guilty of rape by Los Angeles court - Al Jazeera English",
+            "description": "Jailed ex-Hollywood kingpin faces a new 24-year sentence for raping an Italian woman in Los Angeles in 2013.",
+            "url": "https://www.aljazeera.com/news/2022/12/20/harvey-weinstein-found-guilty-of-rape-in-los-angeles",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/2022-12-20T001653Z_1906508747_RC29UO97D157_RTRMADP_3_PEOPLE-HARVEY-WEINSTEIN.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-12-20T05:16:53Z",
+            "content": "Disgraced Hollywood movie producer Harvey Weinstein has been found guilty of rape and two counts of sexual assault against an Italian actress and model known as Jane Doe 1 by a jury in Los Angeles, C… [+3218 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jason Owens",
+            "title": "Donovan Mitchell talks 'draining' Utah experience, then leads Cavs in blowout of Jazz - Yahoo Sports",
+            "description": "Mitchell opened up about his challenges in Utah, then torched the Jazz in his first matchup against his former team.",
+            "url": "https://sports.yahoo.com/donovan-mitchell-talks-draining-utah-experience-then-leads-cavs-in-blowout-of-jazz-051230987.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/E9bsMaRolyxzUgmSZJ8Gng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/9676cee0-8024-11ed-be65-4c639623e629",
+            "publishedAt": "2022-12-20T05:12:00Z",
+            "content": "Donovan Mitchell led the Cleveland Cavaliers on Monday to a 122-99 win over the Utah Jazz team that traded him this offseason.\r\nPrior to the game, he opened up to Andscape's Marc J. Spears about his … [+3676 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Perseverance: Nasa Mars rover to lay down rocks for Earth return - BBC",
+            "description": "The Perseverance rover is set to make a store of rocks that can be brought home by a future mission.",
+            "url": "https://www.bbc.com/news/science-environment-64006377",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/97F8/production/_128040983_selfie.jpg",
+            "publishedAt": "2022-12-20T04:45:51Z",
+            "content": "The American space agency's Mars rover Perseverance will this week begin dropping samples of rock on to the surface of the Red Planet.\r\nThe materials have been packaged in small titanium tubes with t… [+4529 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "packersnews.com"
+            },
+            "author": ", Packers News",
+            "title": "Packers' dominant 24-12 victory over Rams keeps playoffs hopes alive - Packers News",
+            "description": "In Green Bay's first double-digit victory since Week 2, the Packers stayed on the path to the playoffs with three games remaining.",
+            "url": "https://www.packersnews.com/story/sports/nfl/packers/2022/12/20/packers-dominant-24-12-victory-over-rams-keeps-playoffs-hopes-alive/69740884007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/20/PPAN/4ab8c01e-fc81-45aa-a264-b758d8b98a4c-MJS_APJ_Packers_vs._Rams_121922_1289_ttm.jpg?auto=webp&crop=3189,1794,x0,y212&format=pjpg&width=1200",
+            "publishedAt": "2022-12-20T04:26:25Z",
+            "content": "GREEN BAY One down. Three more to go.\r\nThe Green Bay Packers exited their late-season bye with the faintest faith, a small glimmer of hope, that a mildly miraculous sprint to the postseason might be … [+5826 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Arizona judge dismisses most of Kari Lake’s lawsuit challenging election results - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vMzc4MTE1OS1hcml6b25hLWp1ZGdlLWRpc21pc3Nlcy1tb3N0LW9mLWthcmktbGFrZXMtbGF3c3VpdC1jaGFsbGVuZ2luZy1lbGVjdGlvbi1yZXN1bHRzL9IBggFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2NhbXBhaWduLzM3ODExNTktYXJpem9uYS1qdWRnZS1kaXNtaXNzZXMtbW9zdC1vZi1rYXJpLWxha2VzLWxhd3N1aXQtY2hhbGxlbmdpbmctZWxlY3Rpb24tcmVzdWx0cy9hbXAv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-20T03:40:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Longer-Lasting Benefits – A More Effective Treatment for a Common Heart Condition - SciTechDaily",
+            "description": "Early treatment with catheter cryoablation can stop the progression of a disease and lower the chance of severe health risks. A nationwide study headed by the University of British Columbia researchers at the Centre for Cardiovascular Innovation sheds light o…",
+            "url": "https://scitechdaily.com/longer-lasting-benefits-a-more-effective-treatment-for-a-common-heart-condition/",
+            "urlToImage": "https://scitechdaily.com/images/Cryoballoon-Ablation.jpg",
+            "publishedAt": "2022-12-20T03:33:11Z",
+            "content": "Cryoablation involves guiding a small tube into the heart and inflating a small balloon to kill problematic tissue with cold temperatures. Credit: Medtronic\r\nEarly treatment with catheter cryoablatio… [+5200 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kara Scannell, Patrick Oppmann, Allison Morrow",
+            "title": "FTX founder Sam Bankman-Fried agrees to be extradited to the US - CNN",
+            "description": "FTX founder Sam Bankman-Fried agreed to be extradited to the United States, where federal prosecutors have indicted him on eight counts of fraud and conspiracy.",
+            "url": "https://www.cnn.com/2022/12/19/business/sbf-extradition-bahamas/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221214130507-sam-bankman-fried-nassau-bahamas-court-1213.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-20T02:32:00Z",
+            "content": "FTX founder Sam Bankman-Fried agreed to be extradited to the United States, where federal prosecutors have indicted him on eight counts of fraud and conspiracy.\r\nJerone Roberts, the attorney represen… [+4198 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samantha Lock",
+            "title": "‘My power’s really low’: Nasa’s Insight Mars rover prepares to sign off from the Red Planet - The Guardian",
+            "description": "Robot says it might be sending its last message from Mars as dust chokes out its power supply",
+            "url": "https://www.theguardian.com/science/2022/dec/20/my-powers-really-low-nasas-insight-mars-rover-signs-off-from-the-red-planet",
+            "urlToImage": "https://i.guim.co.uk/img/media/725c12465a2fd202a491c6f41c013b725792ac82/0_35_1016_610/master/1016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c67e56d2b431b11a7ac071249fa1bd86",
+            "publishedAt": "2022-12-20T02:18:00Z",
+            "content": "Nasas InSight lander has delivered what could be its final message from Mars, where it has been on a history-making mission to reveal the secrets of the Red Planets interior.\r\nIn November the space a… [+2758 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Trump should face insurrection, obstruction charges, Jan 6 panel says - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/us/us-house-jan-6-capitol-riot-probe-consider-trump-criminal-referral-2022-12-19/",
+            "urlToImage": null,
+            "publishedAt": "2022-12-20T01:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Nellie Andreeva",
+            "title": "Taylor Sheridan’s ‘1923’ Sets Paramount+ Premiere Record; Draws 7.4M In Multi-Platform Debut - Deadline",
+            "description": "Taylor Sheridan’s latest installment in the Yellowstone universe, headlined by Helen Mirren and Harrison Ford, has set a new benchmark for the prolific creator — and for Paramount+. 192…",
+            "url": "https://deadline.com/2022/12/taylor-sheridan-1923-paramount-premiere-record-ratings-multi-platform-viewership-1235202995/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/11/1923_KEYART_03_JACOB_CARA_09252022_JM_0063RT.jpg?w=320",
+            "publishedAt": "2022-12-20T00:45:00Z",
+            "content": "Taylor Sheridan’s latest installment in the Yellowstone universe, headlined by Helen Mirren and Harrison Ford, has set a new benchmark for the prolific creator — and for Paramount+. \r\n1923, which was… [+1959 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Epic Games Fined More than Half a Billion Over Fortnite's 'Unfair' Microtransactions - IGN Daily Fix - IGN",
+            "description": "On today's IGN The Daily Fix:Epic Games will have to pay $520 million over \"design tricks...to dupe millions of players into making unintentional purchases\" ...",
+            "url": "https://www.youtube.com/watch?v=aw6vwvJIAY4",
+            "urlToImage": "https://i.ytimg.com/vi/aw6vwvJIAY4/maxresdefault.jpg",
+            "publishedAt": "2022-12-20T00:28:40Z",
+            "content": null
+        }
+    ]
+}
